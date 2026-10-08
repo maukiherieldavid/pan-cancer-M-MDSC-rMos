@@ -1,0 +1,24 @@
+# Local data and machine-specific configuration
+data/
+config/paths.R
+
+# Large/intermediate analysis objects
+*.rds
+*.RData
+*.rda
+
+# Generated outputs (keep documentation)
+results/objects/*
+!results/objects/.gitkeep
+results/tables/*
+!results/tables/.gitkeep
+figures/*
+!figures/README.md
+
+# R / OS files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.DS_Store
+Thumbs.db

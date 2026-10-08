@@ -1,0 +1,18 @@
+analysis	expected_value
+BRCA patients	5
+BRCA immune cells before immune-cluster cleanup	16566
+CRC total cells	370114
+CRC patients	62
+Melanoma total cells	47681
+Melanoma myeloid cells	9637
+Melanoma patients	25
+LUAD patients	10
+LUAD Seurat significant rMos DEGs (adjusted p < 0.05)	1940
+LUAD DESeq2 significant rMos DEGs (adjusted p < 0.05)	1336
+LUAD overlapping Seurat/DESeq2 DEGs	1052
+LUAD union Seurat/DESeq2 DEGs	2224
+LUAD overlap percent of union	47.3
+LUAD filtered overlapping DEGs (abs Seurat avg_log2FC > 0.5)	856
+LUAD filtered upregulated genes	510
+LUAD filtered downregulated genes	346
+LUAD matched patients for subset-abundance analysis	8

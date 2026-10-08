@@ -1,0 +1,5 @@
+dataset	role	accession	patients	input_description
+Breast cancer (BRCA)	signature discovery	SCP1106	5	Count matrix and metadata from Broad Institute Single Cell Portal
+Colorectal cancer (CRC)	independent transcriptomic evaluation	GSE178341	62	10x HDF5 count matrix and accompanying metadata
+Melanoma	independent transcriptomic evaluation	GSE123139	25	10x count matrix and accompanying metadata
+Lung adenocarcinoma (LUAD)	independent transcriptomic evaluation and rMos analysis	GSE131907	10	Per-sample 10x count matrices from matched/available normal and tumour specimens
